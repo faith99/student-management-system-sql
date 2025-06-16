@@ -18,9 +18,9 @@ This project is a relational database model for managing students, courses, inst
 |-------------|-------------|
 | `sql/student_mgt_sys_DDL.sql` | SQL script to create and populate tables |
 | `sql/student_mgt_sys_DML.sql` | SQL queries for reporting & analysis |
-| `docs/erd.png`     | Entity Relationship Diagram |
-| `student_mgt_sytem_documentation` | Documentation and explanations of the table and queries |
-| `student_management_system.xlsx` | Sample dataset |
+| `doc/erd.png`     | Entity Relationship Diagram |
+| `doc/student_mgt_sytem_documentation` | Documentation and explanations of the table and queries |
+| `doc/student_management_system.xlsx` | Sample dataset |
 
 ---
 
